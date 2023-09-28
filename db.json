@@ -1,1 +1,121 @@
+{
+    "pessoaJuridica": [
+        {
+            "id":1,
+            "nome": "Josias",
+            "email": "josias@gmail.com",
+            "cnpj": "11122233344455",
+            "nomeFantasia": "Josias Tech",
+            "tipoVacina": "Covid 19"
+        }
+    ],
+    "pessoaFisica": [
+        {
+            "id":1,
+            "nome": "Josias",
+            "email": "josias@gmail.com",
+            "dataNascimento": "09-09-1987",
+            "cpf": "11122233344" 
+        }
+    ],
+    "telefone": [
+        {
+            "id":1,
+            "numero": "3298877-6655"
+        }
+    ],
+    "endereco": [
+        {
+            "id":1,
+            "logradouro": "Rua",
+            "numero": "50",
+            "complemento": "apt 101",
+            "bairro": "centro",
+            "cidade": "Juiz de Fora",
+            "uf": "MG",
+            "cep": "36000-000"
+        }
+    ],
+    "paciente": [
+        {
+            "id":1,
+            "tipoSanquinio": "O+",
+            "alergia": "false",
+            "contraIndicacao": "false"
+        }
+    ],
+    "agendamento":[
+        {
+            "id":1,
+            "data": "Covid19",
+            "hora": "vacina covid 19"
+        }
+    ],
+    "condespecial":[
+        {
+            "id":1,
+            "nomeCond": "Covid19",
+            "descCond": "vacina covid 19"
+        }
+    ],
+    "cargo":[
+        {
+            "id":1,
+            "nomeCargo": "Covid19",
+            "descCargo": "vacina covid 19"
+        }
+    ],
+    "perfilAcesso":[
+        {
+            "id":1,
+            "nomePerfil": "Covid19",
+            "descPerfil": "vacina covid 19",
+            "Permissoes": "111"
+        }
+    ],
+    "Fornecedor": [
+        {
+            "id":1,
+            "nomeFantasia": "Josias",
+            "razaoSocial": "josias@gmail.com",
+            "cnpj": "11122233344455",
+            "email": "Josias Tech"
+        }
+    ],
+    "estoque": [
+        {
+            "id":1,
+            "fabricante": "Josias",
+            "qtdMinima": "josias@gmail.com",
+            "qtdMaxima": "11122233344455",
+            "pontoRessup": "Josias Tech"
+        }
+    ],
+    "vacina":[
+        {
+            "id":1,
+            "nome": "Covid19",
+            "descricao": "vacina covid 19",
+            "numLote": "111",
+            "data_validade": "2024-12-31",
+            "fabricante": "Fazer",
+            "doses": "5",
+            "tipoVacina": "virus inativado"
+        }
+    ],
+    "tipoVacina": [
+        {
+            "id":1,
+            "tipo": "Josias",
+            "descricao": "josias@gmail.com"
+        }
+    ],
+    "descarte": [
+        {
+            "id":1,
+            "numLote": "Josias",
+            "quantidade": "josias@gmail.com"
+        }
+    ]
+}
 
