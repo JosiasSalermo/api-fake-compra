@@ -1,5 +1,5 @@
 {
-    "pessoaJuridica": [
+    "fornecedor": [
         { "id":1, "nome": "Instituto butantan ",  "nomeFantasia": "Butantan", "tipoVacina": "Covid 19", "email": "contato@butantan.gov.br"},
         { "id":1, "nome": "Astrazeneca do Brasil LTDA",  "nomeFantasia": "Astrazeneca", "tipoVacina": "Covid 19", "email": "contato@astrazeneca.gov.br"},
         { "id":1, "nome": "Pfizer Brasil LTDA",  "nomeFantasia": "Ffizer", "tipoVacina": "Covid 19", "email": "contato@pfizer.gov.br"},
