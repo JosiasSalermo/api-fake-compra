@@ -92,16 +92,10 @@
         }
     ],
     "vacina":[
-        {
-            "id":1,
-            "nome": "Covid19",
-            "descricao": "vacina covid 19",
-            "numLote": "111",
-            "data_validade": "2024-12-31",
-            "fabricante": "Fazer",
-            "doses": "5",
-            "tipoVacina": "virus inativado"
-        }
+        { "id":1, "nome": "Covid19", "tipoVacina": "virus inativado", "fabricante": "CoronaVac", "data_validade": "2024-12-31"},
+        { "id":1, "nome": "Covid19", "tipoVacina": "adenovirus", "fabricante": "Oxford/AstraZeneca", "data_validade": "2024-12-31"},
+        { "id":1, "nome": "Covid19", "tipoVacina": "RNA", "fabricante": "PFizer/BioNTech", "data_validade": "2024-12-31"},
+        { "id":1, "nome": "Influenza A(H1N1)", "tipoVacina": "virus inativado", "fabricante": "Fiocruz", "data_validade": "2024-12-31"}
     ],
     "tipoVacina": [
         {
