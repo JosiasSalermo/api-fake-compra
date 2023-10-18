@@ -7,10 +7,10 @@
                
     ],
     "vacina":[
-        { "id":1, "nome": "Covid19", "tipoVacina": "virus inativado", "fabricante": "CoronaVac", "data_validade": "2024-12-31"},
-        { "id":2, "nome": "Covid19", "tipoVacina": "adenovirus", "fabricante": "Oxford/AstraZeneca", "data_validade": "2024-12-31"},
-        { "id":3, "nome": "Covid19", "tipoVacina": "RNA", "fabricante": "PFizer/BioNTech", "data_validade": "2024-12-31"},
-        { "id":4, "nome": "Influenza A(H1N1)", "tipoVacina": "virus inativado", "fabricante": "Fiocruz", "data_validade": "2024-12-31"}
+        { "id":1, "nomeVacina": "Covid19", "descricao": "virus inativado", "dosesAmpola": "5", "data_validade": "2024-12-31"},
+        { "id":2, "nomeVacina": "Covid19", "descricao": "adenovirus", "dosesAmpola": "5", "data_validade": "2024-12-31"},
+        { "id":3, "nomeVacina": "Covid19", "descricao": "RNA", "dosesAmpola": "5", "data_validade": "2024-12-31"},
+        { "id":4, "nomeVacina": "Influenza A(H1N1)", "descricao": "virus inativado", "dosesAmpola": "5", "data_validade": "2024-12-31"}
     ],
     "pessoaFisica":[
         { "id":1, "nome": "Bruno", "cargo": "enfermeiro","email": "bruno@gmail.com"},
