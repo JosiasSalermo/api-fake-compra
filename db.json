@@ -11,7 +11,12 @@
         { "id":1, "nome": "Covid19", "tipoVacina": "adenovirus", "fabricante": "Oxford/AstraZeneca", "data_validade": "2024-12-31"},
         { "id":1, "nome": "Covid19", "tipoVacina": "RNA", "fabricante": "PFizer/BioNTech", "data_validade": "2024-12-31"},
         { "id":1, "nome": "Influenza A(H1N1)", "tipoVacina": "virus inativado", "fabricante": "Fiocruz", "data_validade": "2024-12-31"}
+    ],
+    "pessoaFisica":[
+        { "id":1, "nome": "Bruno", "cargo": "enfermeiro","email": "bruno@gmail.com"},
+        { "id":1, "nome": "Carlos", "cargo": "enfermeiro","email": "carlos@gmail.com"},
+	    { "id":1, "nome": "Daniel", "cargo": "enfermeiro","email": "Daniel@gmail.com"},
+	    { "id":1, "nome": "Evander", "cargo": "enfermeiro","email": "Evander@gmail.com"}
     ]
-   
 }
 
