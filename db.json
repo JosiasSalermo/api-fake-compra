@@ -1,13 +1,10 @@
 {
     "pessoaJuridica": [
-        {
-            "id":1,
-            "nome": "Josias",
-            "email": "josias@gmail.com",
-            "cnpj": "11122233344455",
-            "nomeFantasia": "Josias Tech",
-            "tipoVacina": "Covid 19"
-        }
+        { "id":1, "nome": "Instituto butantan ",  "nomeFantasia": "Butantan", "tipoVacina": "Covid 19", "email": "contato@butantan.gov.br"},
+        { "id":1, "nome": "Astrazeneca do Brasil LTDA",  "nomeFantasia": "Astrazeneca", "tipoVacina": "Covid 19", "email": "contato@astrazeneca.gov.br"},
+        { "id":1, "nome": "Pfizer Brasil LTDA",  "nomeFantasia": "Ffizer", "tipoVacina": "Covid 19", "email": "contato@pfizer.gov.br"},
+        { "id":1, "nome": "Fundaçao Oswaldo Cruz",  "nomeFantasia": "Fio Cruz", "tipoVacina": "Covid 19", "email": "contato@fiocruz.gov.br"}
+               
     ],
     "pessoaFisica": [
         {
