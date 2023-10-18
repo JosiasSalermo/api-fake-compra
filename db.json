@@ -25,10 +25,10 @@
 	    { "id":4, "nome": "Ítalo", "dataVacinacao": "18/07/2023", "horaVacinacao": "08:00", "nomeVacina": "Febre Amarela"}
     ],
     "paciente":[
-        { "id":1, "nomePaciente": "Fabrício", "data": "15/07/2023", "hora": "08:00", "tipoVacina": "vacina covid 19"},
-	    { "id":2, "nomePaciente": "Gustavo", "data": "16/07/2023", "hora": "08:00", "tipoVacina": "A(H1N1)"},
-	    { "id":3, "nomePaciente": "Humberto", "data": "17/07/2023", "hora": "08:00", "tipoVacina": "Meningite"},
-	    { "id":4, "nomePaciente": "Ítalo", "data": "18/07/2023", "hora": "08:00", "tipoVacina": "Febre Amarela"}
+        { "id":1, "nome": "Fabrício", "dataNascimento": "15/07/1990", "hora": "08:00", "tipoVacina": "vacina covid 19"},
+	    { "id":2, "nome": "Gustavo", "dataNascimento": "16/07/1991", "hora": "08:00", "tipoVacina": "A(H1N1)"},
+	    { "id":3, "nome": "Humberto", "dataNascimento": "17/07/1988", "hora": "08:00", "tipoVacina": "Meningite"},
+	    { "id":4, "nome": "Ítalo", "dataNascimento": "18/07/1989", "hora": "08:00", "tipoVacina": "Febre Amarela"}
     ]
 }
 
