@@ -13,10 +13,10 @@
         { "id":4, "nomeVacina": "Influenza A(H1N1)", "descricao": "Vacina de Covid19 com virus inativado", "numeroLote": "339164-1", "dosesAmpola": "5", "data_validade": "2024-12-31"}
     ],
     "pessoaFisica":[
-        { "id":1, "nome": "Bruno", "dataNascimento": "1993-04-18","email": "bruno@gmail.com"},
-        { "id":2, "nome": "Carlos", "dataNascimento": "1992-03-17","email": "carlos@gmail.com"},
-	    { "id":3, "nome": "Daniel", "dataNascimento": "1991-02-16","email": "Daniel@gmail.com"},
-	    { "id":4, "nome": "Evander", "dataNascimento": "1990-01-15","email": "Evander@gmail.com"}
+        { "id":1, "nome": "Bruno", "dataNascimento": "1993-04-18","email": "bruno@gmail.com", "cpf": "12345678999"},
+        { "id":2, "nome": "Carlos", "dataNascimento": "1992-03-17","email": "carlos@gmail.com", "cpf": "23456789100"},
+	    { "id":3, "nome": "Daniel", "dataNascimento": "1991-02-16","email": "Daniel@gmail.com", "cpf": "34567890122"},
+	    { "id":4, "nome": "Evander", "dataNascimento": "1990-01-15","email": "Evander@gmail.com", "cpf": "45678901234"}
     ],
     "agendamento":[
         { "id":1, "nome": "Fabrício", "dataVacinacao": "15/07/2023", "horaVacinacao": "08:00", "nomeVacina": "vacina covid 19"},
