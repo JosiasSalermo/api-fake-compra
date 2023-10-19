@@ -25,18 +25,7 @@
 	    { "id":3, "nome": "Humberto", "dataVacinacao": "17/07/2023", "horaVacinacao": "08:00", "nomeVacina": "Meningite"},
 	    { "id":4, "nome": "Ítalo", "dataVacinacao": "18/07/2023", "horaVacinacao": "08:00", "nomeVacina": "Febre Amarela"}
     ]
-    // "pessoaFisica":[
-    //     { "id":1, "nome": "Bruno", "dataNascimento": "1993-04-18","email": "bruno@gmail.com", "cpf": "12345678999"},
-    //     { "id":2, "nome": "Carlos", "dataNascimento": "1992-03-17","email": "carlos@gmail.com", "cpf": "23456789100"},
-	//     { "id":3, "nome": "Daniel", "dataNascimento": "1991-02-16","email": "Daniel@gmail.com", "cpf": "34567890122"},
-	//     { "id":4, "nome": "Evander", "dataNascimento": "1990-01-15","email": "Evander@gmail.com", "cpf": "45678901234"}
-    // ],
-    // "paciente":[
-    //     { "id":1, "nome": "Fabrício", "dataNascimento": "15/07/1990", "hora": "08:00", "tipoVacina": "vacina covid 19"},
-	//     { "id":2, "nome": "Gustavo", "dataNascimento": "16/07/1991", "hora": "08:00", "tipoVacina": "A(H1N1)"},
-	//     { "id":3, "nome": "Humberto", "dataNascimento": "17/07/1988", "hora": "08:00", "tipoVacina": "Meningite"},
-	//     { "id":4, "nome": "Ítalo", "dataNascimento": "18/07/1989", "hora": "08:00", "tipoVacina": "Febre Amarela"}
-    // ]
+    
     
 }
 
