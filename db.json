@@ -7,10 +7,10 @@
                
     ],
     "vacina":[
-        { "id":1, "nomeVacina": "Covid19", "descricao": "virus inativado", "dosesAmpola": "5", "data_validade": "2024-12-31"},
-        { "id":2, "nomeVacina": "Covid19", "descricao": "adenovirus", "dosesAmpola": "5", "data_validade": "2024-12-31"},
-        { "id":3, "nomeVacina": "Covid19", "descricao": "RNA", "dosesAmpola": "5", "data_validade": "2024-12-31"},
-        { "id":4, "nomeVacina": "Influenza A(H1N1)", "descricao": "virus inativado", "dosesAmpola": "5", "data_validade": "2024-12-31"}
+        { "id":1, "nomeVacina": "Covid19", "descricao": "Vacina de Covid19 com virus inativado", "numeroLote": "12345-6", "data_validade": "2024-12-31", "dosesAmpola": "5"},
+        { "id":2, "nomeVacina": "Covid19", "descricao": "Vacina de Covid19 com adenovirus", "numeroLote": "246789-1", "dosesAmpola": "5", "data_validade": "2024-12-31"},
+        { "id":3, "nomeVacina": "Covid19", "descricao": "Vacina de Covid19 com RNA", "numeroLote": "345678-0", "dosesAmpola": "5", "data_validade": "2024-12-31"},
+        { "id":4, "nomeVacina": "Influenza A(H1N1)", "descricao": "Vacina de Covid19 com virus inativado", "numeroLote": "339164-1", "dosesAmpola": "5", "data_validade": "2024-12-31"}
     ],
     "pessoaFisica":[
         { "id":1, "nome": "Bruno", "dataNascimento": "1993-04-18","email": "bruno@gmail.com"},
