@@ -1,9 +1,9 @@
 {
     "fornecedor": [
-        { "id":2, "razaoSocial": "Astrazeneca do Brasil LTDA",  "nomeFantasia": "Astrazeneca", "email": "contato@astrazeneca.gov.br", "cnpj": "12345678910123"},
-        { "id":1, "razaoSocial": "Instituto butantan ",  "nomeFantasia": "Butantan",  "email": "contato@butantan.gov.br", "cnpj": "23456789012345"},
-        { "id":3, "razaoSocial": "Pfizer Brasil LTDA",  "nomeFantasia": "Ffizer", "email": "contato@pfizer.gov.br", "cnpj": "34567890123456"},
-        { "id":4, "razaoSocial": "Fundaçao Oswaldo Cruz",  "nomeFantasia": "Fio Cruz", "email": "contato@fiocruz.gov.br", "cnpj": "45678901234567"}
+        { "id":2, "nomeFantasia": "Astrazeneca", "razaoSocial": "Astrazeneca do Brasil LTDA", "email": "contato@astrazeneca.gov.br", "cnpj": "12345678910123"},
+        { "id":1, "nomeFantasia": "Butantan", "razaoSocial": "Instituto butantan ", "email": "contato@butantan.gov.br", "cnpj": "23456789012345"},
+        { "id":3, "nomeFantasia": "Ffizer", "razaoSocial": "Pfizer Brasil LTDA",   "email": "contato@pfizer.gov.br", "cnpj": "34567890123456"},
+        { "id":4, "nomeFantasia": "Fio Cruz", "razaoSocial": "Fundaçao Oswaldo Cruz",   "email": "contato@fiocruz.gov.br", "cnpj": "45678901234567"}
                
     ],
     "vacina":[
