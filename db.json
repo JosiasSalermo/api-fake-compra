@@ -17,8 +17,7 @@
         { "id":2, "nome": "Carlos", "cargo": "técnico em enfermagem","especialidade": "ambulatorial", "numeroRegistroConselho": "23456789100", "perfil": "padrão"},
 	    { "id":3, "nome": "Daniel", "cargo": "técnico em enfermagem","especialidade": "ambulatorial", "numeroRegistroConselho": "34567890122", "perfil": "padrão"},
 	    { "id":4, "nome": "Evander", "cargo": "secretária","especialidade": "clinicas", "numeroRegistroConselho": "45678901234", "perfil": "padrão"}
-    ]
-    ,
+    ],
     "agendamento":[
         { "id":1, "nome": "Fabrício", "dataVacinacao": "15/07/2023", "horaVacinacao": "08:00", "nomeVacina": "vacina covid 19"},
 	    { "id":2, "nome": "Gustavo", "dataVacinacao": "16/07/2023", "horaVacinacao": "08:00", "nomeVacina": "A(H1N1)"},
