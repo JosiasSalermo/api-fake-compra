@@ -4,6 +4,7 @@
         { "id":1, "nomeFantasia": "Butantan", "razaoSocial": "Instituto butantan ", "email": "contato@butantan.gov.br", "cnpj": "23456789012345"},
         { "id":3, "nomeFantasia": "Ffizer", "razaoSocial": "Pfizer Brasil LTDA",   "email": "contato@pfizer.gov.br", "cnpj": "34567890123456"},
         { "id":4, "nomeFantasia": "Fio Cruz", "razaoSocial": "Fundaçao Oswaldo Cruz",   "email": "contato@fiocruz.gov.br", "cnpj": "45678901234567"}
+               
     ],
     "vacina":[
         { "id":1, "nomeVacina": "Covid19", "descricao": "Vacina de Covid19 com virus inativado", "numeroLote": "12345-6", "dataValidade": "2024-12-31", "dosesAmpola": "5"},
@@ -22,7 +23,79 @@
 	    { "id":2, "nome": "Gustavo", "dataVacinacao": "16/07/2023", "horaVacinacao": "08:00", "nomeVacina": "A(H1N1)"},
 	    { "id":3, "nome": "Humberto", "dataVacinacao": "17/07/2023", "horaVacinacao": "08:00", "nomeVacina": "Meningite"},
 	    { "id":4, "nome": "Ítalo", "dataVacinacao": "18/07/2023", "horaVacinacao": "08:00", "nomeVacina": "Febre Amarela"}
+<<<<<<< HEAD
+    ],
+<<<<<<< HEAD
+    "condespecial":[
+        {
+            "id":1,
+            "nomeCond": "Covid19",
+            "descCond": "vacina covid 19"
+        }
+    ],
+    "cargo":[
+        {
+            "id":1,
+            "nomeCargo": "Covid19",
+            "descCargo": "vacina covid 19"
+        }
+    ],
+    "perfilAcesso":[
+        {
+            "id":1,
+            "nomePerfil": "Covid19",
+            "descPerfil": "vacina covid 19",
+            "Permissoes": "111"
+        }
+    ],
+    "Fornecedor": [
+        {
+            "id":1,
+            "nomeFantasia": "Josias",
+            "razaoSocial": "josias@gmail.com",
+            "cnpj": "11122233344455",
+            "email": "Josias Tech"
+        }
+    ],
+    "estoque": [
+        {
+            "id":1,
+            "fabricante": "Josias",
+            "qtdMinima": "josias@gmail.com",
+            "qtdMaxima": "11122233344455",
+            "pontoRessup": "Josias Tech"
+        }
+    ],
+    "vacina":[
+        { "id":1, "nome": "Covid19", "tipoVacina": "virus inativado", "fabricante": "CoronaVac", "data_validade": "2024-12-31"},
+        { "id":1, "nome": "Covid19", "tipoVacina": "adenovirus", "fabricante": "Oxford/AstraZeneca", "data_validade": "2024-12-31"},
+        { "id":1, "nome": "Covid19", "tipoVacina": "RNA", "fabricante": "PFizer/BioNTech", "data_validade": "2024-12-31"},
+        { "id":1, "nome": "Influenza A(H1N1)", "tipoVacina": "virus inativado", "fabricante": "Fiocruz", "data_validade": "2024-12-31"}
+    ],
+    "tipoVacina": [
+        {
+            "id":1,
+            "tipo": "Josias",
+            "descricao": "josias@gmail.com"
+        }
+    ],
+    "descarte": [
+        {
+            "id":1,
+            "numLote": "Josias",
+            "quantidade": "josias@gmail.com"
+        }
+=======
+    "paciente":[
+        { "id":1, "nome": "Fabrício", "dataNascimento": "15/07/1990", "hora": "08:00", "tipoVacina": "vacina covid 19"},
+	    { "id":2, "nome": "Gustavo", "dataNascimento": "16/07/1991", "hora": "08:00", "tipoVacina": "A(H1N1)"},
+	    { "id":3, "nome": "Humberto", "dataNascimento": "17/07/1988", "hora": "08:00", "tipoVacina": "Meningite"},
+	    { "id":4, "nome": "Ítalo", "dataNascimento": "18/07/1989", "hora": "08:00", "tipoVacina": "Febre Amarela"}
+>>>>>>> b9c3baf25711305b49c6b1fba29aaceed37bbd87
+=======
+>>>>>>> 93d041c267643edb41208a4125d9f09fa70c02b0
     ]
-
+    
+    
 }
 
