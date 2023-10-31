@@ -6,10 +6,10 @@
         { "id":4, "nomeFantasia": "Fio Cruz", "razaoSocial": "Fundaçao Oswaldo Cruz",   "email": "contato@fiocruz.gov.br", "cnpj": "45678901234567"}
     ],
     "vacina":[
-        { "id":1, "nomeVacina": "Covid19", "descricao": "Vacina de Covid19 com virus inativado", "numeroLote": "12345-6", "dataValidade": "2024-12-31", "dosesAmpola": "5"},
-        { "id":2, "nomeVacina": "Covid19", "descricao": "Vacina de Covid19 com adenovirus", "numeroLote": "246789-1", "dosesAmpola": "5", "data_validade": "2024-12-31"},
-        { "id":3, "nomeVacina": "Covid19", "descricao": "Vacina de Covid19 com RNA", "numeroLote": "345678-0", "dosesAmpola": "5", "data_validade": "2024-12-31"},
-        { "id":4, "nomeVacina": "Influenza A(H1N1)", "descricao": "Vacina de Covid19 com virus inativado", "numeroLote": "339164-1", "dosesAmpola": "5", "data_validade": "2024-12-31"}
+        { "id":1, "nomeVacina": "Covid19", "descricao": "Vacina de Covid19 com virus inativado", "numeroLote": "12345-6", "dataValidade": "2024-12-31", "dosesAmpola": "5","tipo": "virus inativado"},
+        { "id":2, "nomeVacina": "Covid19", "descricao": "Vacina de Covid19 com adenovirus", "numeroLote": "246789-1", "dosesAmpola": "5", "data_validade": "2024-12-31","tipo": "vírus atenuados"},
+        { "id":3, "nomeVacina": "Covid19", "descricao": "Vacina de Covid19 com RNA", "numeroLote": "345678-0", "dosesAmpola": "5", "data_validade": "2024-12-31", "tipo": "ácidos nucleicos"},
+        { "id":4, "nomeVacina": "Influenza A(H1N1)", "descricao": "Vacina de Covid19 com virus inativado", "numeroLote": "339164-1", "dosesAmpola": "5", "data_validade": "2024-12-31", "tipo": "subunidades"}
     ],
     "funcionario":[
         { "id":1, "nome": "Bruno", "cargo": "enfermeiro","especialidade": "ambulatorial", "numeroRegistroConselho": "12345678999", "perfil": "padrão"},
@@ -18,10 +18,10 @@
 	    { "id":4, "nome": "Evander", "cargo": "secretária","especialidade": "clinicas", "numeroRegistroConselho": "45678901234", "perfil": "padrão"}
     ],
     "agendamento":[
-        { "id":1, "nome": "Fabrício", "dataVacinacao": "15/07/2023", "horaVacinacao": "08:00", "nomeVacina": "vacina covid 19"},
-	    { "id":2, "nome": "Gustavo", "dataVacinacao": "16/07/2023", "horaVacinacao": "08:00", "nomeVacina": "A(H1N1)"},
-	    { "id":3, "nome": "Humberto", "dataVacinacao": "17/07/2023", "horaVacinacao": "08:00", "nomeVacina": "Meningite"},
-	    { "id":4, "nome": "Ítalo", "dataVacinacao": "18/07/2023", "horaVacinacao": "08:00", "nomeVacina": "Febre Amarela"}
+        { "id":1, "nome": "Fabrício", "dataVacinacao": "15/07/2023", "horaVacinacao": "08:00", "nomeVacina": "vacina covid 19", "tipo": "virus inativado", "descricao": "vírus inteiros que foram inativados"},
+	    { "id":2, "nome": "Gustavo", "dataVacinacao": "16/07/2023", "horaVacinacao": "08:00", "nomeVacina": "A(H1N1)", "tipo": "virus inativado", "descricao": "vírus inteiros que foram inativados"},
+	    { "id":3, "nome": "Humberto", "dataVacinacao": "17/07/2023", "horaVacinacao": "08:00", "nomeVacina": "Meningite", "tipo": "virus inativado", "descricao": "vírus inteiros que foram inativados"},
+	    { "id":4, "nome": "Ítalo", "dataVacinacao": "18/07/2023", "horaVacinacao": "08:00", "nomeVacina": "Febre Amarela", "tipo": "virus inativado", "descricao": "vírus inteiros que foram inativados"}
     ],
     "tipoVacina":[
         { "id":1, "tipo": "virus inativado", "descricao": "vírus inteiros que foram inativados"},
