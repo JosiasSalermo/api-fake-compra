@@ -1,28 +1,55 @@
 {
-    "fornecedor": [
-        { "id":2, "nomeFantasia": "Astrazeneca", "razaoSocial": "Astrazeneca do Brasil LTDA", "email": "contato@astrazeneca.gov.br", "cnpj": "12345678910123"},
-        { "id":1, "nomeFantasia": "Butantan", "razaoSocial": "Instituto butantan ", "email": "contato@butantan.gov.br", "cnpj": "23456789012345"},
-        { "id":3, "nomeFantasia": "Ffizer", "razaoSocial": "Pfizer Brasil LTDA",   "email": "contato@pfizer.gov.br", "cnpj": "34567890123456"},
-        { "id":4, "nomeFantasia": "Fio Cruz", "razaoSocial": "Fundaçao Oswaldo Cruz",   "email": "contato@fiocruz.gov.br", "cnpj": "45678901234567"}
-    ],
-    "funcionario":[
-        { "id":1, "nome": "Bruno", "cargo": "enfermeiro","especialidade": "ambulatorial", "numeroRegistroConselho": "12345678999", "perfil": "padrão"},
-        { "id":2, "nome": "Carlos", "cargo": "técnico em enfermagem","especialidade": "ambulatorial", "numeroRegistroConselho": "23456789100", "perfil": "padrão"},
-	    { "id":3, "nome": "Daniel", "cargo": "técnico em enfermagem","especialidade": "ambulatorial", "numeroRegistroConselho": "34567890122", "perfil": "padrão"},
-	    { "id":4, "nome": "Evander", "cargo": "secretária","especialidade": "clinicas", "numeroRegistroConselho": "45678901234", "perfil": "padrão"}
-    ],
-    "agendamento":[
-        { "id":1, "nome": "Fabrício", "dataVacinacao": "15/07/2023", "horaVacinacao": "08:00", "nomeVacina": "vacina covid 19", "tipo": "virus inativado", "descricao": "vírus inteiros que foram inativados"},
-	    { "id":2, "nome": "Gustavo", "dataVacinacao": "16/07/2023", "horaVacinacao": "08:00", "nomeVacina": "A(H1N1)", "tipo": "virus inativado", "descricao": "vírus inteiros que foram inativados"},
-	    { "id":3, "nome": "Humberto", "dataVacinacao": "17/07/2023", "horaVacinacao": "08:00", "nomeVacina": "Meningite", "tipo": "virus inativado", "descricao": "vírus inteiros que foram inativados"},
-	    { "id":4, "nome": "Ítalo", "dataVacinacao": "18/07/2023", "horaVacinacao": "08:00", "nomeVacina": "Febre Amarela", "tipo": "virus inativado", "descricao": "vírus inteiros que foram inativados"}
-    ],
-    "tipoVacina":[
-        { "id":1, "tipo": "virus inativado", "descricao": "vírus inteiros que foram inativados"},
-        { "id":2, "tipo": "vírus atenuados", "descricao": "vírus vivos que foram enfraquecidos em laboratório"},
-        { "id":3, "tipo": "ácidos nucleicos", "descricao": "material genético, como o DNA ou o RNA do agente causador da doença"},
-        { "id":4, "tipo": "subunidades", "descricao": "contêm apenas partes específicas do agente causador da doença"}
-    ]
-
+  "compras": [
+    {
+      "id": 1,
+      "data_compra": "2024-04-15",
+      "valor": 1250.00,
+      "fornecedor_id": 1,
+      "fabricante_id": 6,
+      "lote_id": 1,
+      "quantidade": 150,
+      "observacao": "Compra trimestral programada"
+    },
+    {
+      "id": 2,
+      "data_compra": "2024-04-28",
+      "valor": 2350.50,
+      "fornecedor_id": 2,
+      "fabricante_id": 7,
+      "lote_id": 2,
+      "quantidade": 220,
+      "observacao": ""
+    },
+    {
+      "id": 3,
+      "data_compra": "2024-05-02",
+      "valor": 1800.75,
+      "fornecedor_id": 3,
+      "fabricante_id": 8,
+      "lote_id": 3,
+      "quantidade": 180,
+      "observacao": "Compra para reposição de estoque"
+    },
+    {
+      "id": 4,
+      "data_compra": "2024-05-10",
+      "valor": 920.00,
+      "fornecedor_id": 1,
+      "fabricante_id": 9,
+      "lote_id": 4,
+      "quantidade": 100,
+      "observacao": ""
+    },
+    {
+      "id": 5,
+      "data_compra": "2024-05-20",
+      "valor": 1500.00,
+      "fornecedor_id": 2,
+      "fabricante_id": 6,
+      "lote_id": 5,
+      "quantidade": 120,
+      "observacao": "Compra emergencial devido à alta demanda"
+    }
+  ]
 }
 
