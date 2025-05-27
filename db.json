@@ -2,54 +2,53 @@
   "compras": [
     {
       "id": 1,
-      "data_compra": "2024-04-15",
+      "dataCompra": "2024-04-15",
       "valor": 1250.00,
-      "fornecedor_id": 1,
-      "fabricante_id": 6,
-      "lote_id": 1,
+      "fornecedorId": 1,
+      "fabricanteId": 6,
+      "loteId": 1,
       "quantidade": 150,
       "observacao": "Compra trimestral programada"
     },
     {
       "id": 2,
-      "data_compra": "2024-04-28",
+      "dataCompra": "2024-04-28",
       "valor": 2350.50,
-      "fornecedor_id": 2,
-      "fabricante_id": 7,
-      "lote_id": 2,
+      "fornecedorId": 2,
+      "fabricanteId": 7,
+      "loteId": 2,
       "quantidade": 220,
       "observacao": ""
     },
     {
       "id": 3,
-      "data_compra": "2024-05-02",
+      "dataCompra": "2024-05-02",
       "valor": 1800.75,
-      "fornecedor_id": 3,
-      "fabricante_id": 8,
-      "lote_id": 3,
+      "fornecedorId": 3,
+      "fabricanteId": 8,
+      "loteId": 3,
       "quantidade": 180,
       "observacao": "Compra para reposição de estoque"
     },
     {
       "id": 4,
-      "data_compra": "2024-05-10",
+      "dataCompra": "2024-05-10",
       "valor": 920.00,
-      "fornecedor_id": 1,
-      "fabricante_id": 9,
-      "lote_id": 4,
+      "fornecedorId": 1,
+      "fabricanteId": 9,
+      "loteId": 4,
       "quantidade": 100,
       "observacao": ""
     },
     {
       "id": 5,
-      "data_compra": "2024-05-20",
+      "dataCompra": "2024-05-20",
       "valor": 1500.00,
-      "fornecedor_id": 2,
-      "fabricante_id": 6,
-      "lote_id": 5,
+      "fornecedorId": 2,
+      "fabricanteId": 6,
+      "loteId": 5,
       "quantidade": 120,
       "observacao": "Compra emergencial devido à alta demanda"
     }
   ]
 }
-
