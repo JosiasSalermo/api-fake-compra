@@ -5,7 +5,7 @@
       "dataCompra": "2024-04-15",
       "valor": 1250.00,
       "fornecedorId": 1,
-      "fabricanteId": 6,
+      "fabricanteId": 1,
       "loteId": 1,
       "quantidade": 150,
       "observacao": "Compra trimestral programada"
@@ -15,7 +15,7 @@
       "dataCompra": "2024-04-28",
       "valor": 2350.50,
       "fornecedorId": 2,
-      "fabricanteId": 7,
+      "fabricanteId": 2,
       "loteId": 2,
       "quantidade": 220,
       "observacao": ""
@@ -25,7 +25,7 @@
       "dataCompra": "2024-05-02",
       "valor": 1800.75,
       "fornecedorId": 3,
-      "fabricanteId": 8,
+      "fabricanteId": 3,
       "loteId": 3,
       "quantidade": 180,
       "observacao": "Compra para reposição de estoque"
@@ -35,7 +35,7 @@
       "dataCompra": "2024-05-10",
       "valor": 920.00,
       "fornecedorId": 1,
-      "fabricanteId": 9,
+      "fabricanteId": 4,
       "loteId": 4,
       "quantidade": 100,
       "observacao": ""
@@ -45,7 +45,7 @@
       "dataCompra": "2024-05-20",
       "valor": 1500.00,
       "fornecedorId": 2,
-      "fabricanteId": 6,
+      "fabricanteId": 5,
       "loteId": 5,
       "quantidade": 120,
       "observacao": "Compra emergencial devido à alta demanda"
